@@ -1,0 +1,6 @@
+name: Kingdoms
+version: @version@
+main: kieronwiltshire.com.kingdoms.Kingdoms
+api-version: 1.13
+authors: [Kieron]
+description: A plugin which changes the minecraft landscape into a battle for your kingdom.
